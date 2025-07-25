@@ -34,11 +34,9 @@ If the device cannot establish or maintain a connection, it will buffer the meas
 - **[The 5GDrone Python SDK](how-to-exploit-the-data/2sdk.md)** provides tools and libraries to help you develop applications for 5G-enabled drones.
 - **[The 5GDrone Database Connector](how-to-exploit-the-data/3db.md)** stores each message sent by the Raspberry Pi in a database for future use. It is implemented using the SDK.
 
-## About the Project
+## Acknowledgement
 
-5GDrone is part of the [6G-SORUS](https://unica6g.it.uc3m.es/en/6g-sorus/) initiative, within the broader [UNICA 6G](https://unica6g.it.uc3m.es/en/) project.
-
-UNICA 6G is an innovative project focused on the deployment of advanced 5G and 6G technologies, developed under the Spanish Recovery, Transformation and Resilience Plan.
+This work is supported by the Spanish Ministry of Economic Affairs and Digital Transformation and the European Union-NextGenerationEU through the [UNICO 5G I+D SORUS project](https://unica6g.it.uc3m.es/en/6g-sorus/).
 
 ![Plan de Recuperación, Transformación y Resiliencia](img/logos/plan_recuperacion.webp)  
 ![Financed by the European Union NextGenerationEU](img/logos/ngeu.webp)  
