@@ -1,8 +1,8 @@
-# Welcome to the 5GDrone Documentation
+# Welcome to the SorusBoxScan Documentation
 
-![5GDrone device](img/5gdrone.jpg)
+![SorusBoxScan device](img/5gdrone.jpg)
 
-**5GDrone** is a device designed to measure the quality of 5G/4G/3G mobile network signals within a given area.
+**SorusBoxScan** is a device designed to measure the quality of 5G/4G/3G mobile network signals within a given area.
 
 It can provide data in real time whenever it connects to a suitable mobile network. If no connection is available, the device caches the data locally and relays it once connectivity is restored.
 
@@ -31,8 +31,8 @@ If the device cannot establish or maintain a connection, it will buffer the meas
 ## How to Exploit the Data
 
 - **[Any MQTT client](how-to-exploit-the-data/1mqtt-client.md)** can subscribe to the signal quality messages in real time.
-- **[The 5GDrone Python SDK](how-to-exploit-the-data/2sdk.md)** provides tools and libraries to help you develop applications for 5G-enabled drones.
-- **[The 5GDrone Database Connector](how-to-exploit-the-data/3db.md)** stores each message sent by the Raspberry Pi in a database for future use. It is implemented using the SDK.
+- **[The SorusBoxScan Python SDK](how-to-exploit-the-data/2sdk.md)** provides tools and libraries to help you develop applications for 5G-enabled drones.
+- **[The SorusBoxScan Database Connector](how-to-exploit-the-data/3db.md)** stores each message sent by the Raspberry Pi in a database for future use. It is implemented using the SDK.
 
 ## Acknowledgement
 

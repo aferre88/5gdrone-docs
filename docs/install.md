@@ -1,4 +1,4 @@
-# Setting up the 5GDrone Device
+# Setting up the SorusBoxScan Device
 
 !!! note
     This page will guide you through the installation of the software required to run the device. [Details on the physical mounting of the device](https://www.waveshare.com/w/upload/d/d8/SIM8202G-M2-5G-HAT-Assembly-en.jpg) can be found on the manufacturer's website.
