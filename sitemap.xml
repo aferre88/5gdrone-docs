@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://aferre88.github.io/5gdrone-docs/</loc>
+         <lastmod>2025-09-01</lastmod>
+    </url>
+    <url>
+         <loc>https://aferre88.github.io/5gdrone-docs/example/</loc>
+         <lastmod>2025-09-01</lastmod>
+    </url>
+    <url>
+         <loc>https://aferre88.github.io/5gdrone-docs/install/</loc>
+         <lastmod>2025-09-01</lastmod>
+    </url>
+    <url>
+         <loc>https://aferre88.github.io/5gdrone-docs/how-to-exploit-the-data/1mqtt-client/</loc>
+         <lastmod>2025-09-01</lastmod>
+    </url>
+    <url>
+         <loc>https://aferre88.github.io/5gdrone-docs/how-to-exploit-the-data/2sdk/</loc>
+         <lastmod>2025-09-01</lastmod>
+    </url>
+    <url>
+         <loc>https://aferre88.github.io/5gdrone-docs/how-to-exploit-the-data/3db/</loc>
+         <lastmod>2025-09-01</lastmod>
+    </url>
+</urlset>
